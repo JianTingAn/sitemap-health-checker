@@ -1,0 +1,5 @@
+﻿url,status,user_agent,ms
+https://example.com/,200,Mozilla/5.0 (compatible; Baiduspider/2.0),180
+https://example.com/old,301,Mozilla/5.0 (compatible; Baiduspider/2.0),420
+https://example.com/missing,404,Mozilla/5.0 (compatible; Googlebot/2.1),90
+
